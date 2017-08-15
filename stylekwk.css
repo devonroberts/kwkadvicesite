@@ -1,0 +1,45 @@
+.logo{
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: auto;
+    
+}
+h3 {
+    text-align: center
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+p {
+    text-align: center;
+    padding: 30px;
+    padding-left: 400px;
+    padding-right: 400px
+}
+
+nav ul {
+  width: 95%;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+}
+
+h2 {
+    color:green;
+    font-family: monospace;
+    text-align: center;
+}
+
+h1 {
+    text-align: center
+}
+
+body ol {
+    font-family: serif;
+    display: list-item;
+}

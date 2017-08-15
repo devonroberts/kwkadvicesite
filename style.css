@@ -1,0 +1,38 @@
+body {
+    background-color: #ffe6e6;
+}
+
+h1 {
+    color: #ff1a75;
+    font-family: cursive
+}
+
+h4 {
+    color: #ff1a75;
+    font-family: cursive
+}
+
+h3 {
+    color: #00b300;
+    font-family: monospace
+}
+
+p {
+    color: #00b300;
+    font-family: monospace;
+}
+
+ul {
+    color: #00b300;
+    font-family: monospace
+}
+
+ol {
+    color: #00b300;
+    font-family: monospace
+}
+
+a {
+    color: #00b300;
+    font-family: cursive
+}
